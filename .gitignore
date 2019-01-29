@@ -1,2 +1,4 @@
-#ignore terraform directory
+#ignore files and directory
 .terraform
+terraform.tfstate.backup
+playbokk.yml.retry
